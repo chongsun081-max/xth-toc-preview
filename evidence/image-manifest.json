@@ -1,0 +1,468 @@
+{
+  "img/x01-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/x01-600.webp",
+    "sha256": "0b5515fd0d7097294ff03002dc8bc9abe2002a5fa5826d8ef1d44f19893008a3"
+  },
+  "img/03-X01-back-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/03-X01-back-600.webp",
+    "sha256": "89348c3aec2d21ecdb3099757f3aec383b81ad9b9d585e3ff06e22ac96fadb26"
+  },
+  "img/x02-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/x02-600.webp",
+    "sha256": "250c22bf8009921921c3dc3dba036bf8bc310623f3476a6bbc052e461a42b6ea"
+  },
+  "img/x03-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/x03-600.webp",
+    "sha256": "cee56020d777ff32956cbe03833b35fe61221bcc8b13444225e881f043de879e"
+  },
+  "img/06-X03-back-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/06-X03-back-600.webp",
+    "sha256": "6629a847305822f9eb1f62eb94edd23e1871dcdd436038b447b424acacd3f349"
+  },
+  "img/x04-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/x04-600.webp",
+    "sha256": "8e429cd34f252061a2048e834df03f5e3afabc16dcf4da6f1ba6acfada95765c"
+  },
+  "img/08-X04-black-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/08-X04-black-600.webp",
+    "sha256": "622d0a4c557e9ffd3d539ec711e7ac785e7182bf94227f4ab01ce9416eaca630"
+  },
+  "img/x05-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/x05-600.webp",
+    "sha256": "8db071c3d50456d54aab3ab80bebe1bcd7cfd115c8b32107f566e0c1083e1f90"
+  },
+  "img/10-X05-back-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/10-X05-back-600.webp",
+    "sha256": "3361372093499d6740ba346e47522347ddd18368d7e31a9fece922390d707462"
+  },
+  "img/x06-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/x06-600.webp",
+    "sha256": "31fa4f87a3b7e1cf7c6a1284718e8bfe8493a846d2d55d6139a11b9f1e867383"
+  },
+  "img/x07-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/x07-600.webp",
+    "sha256": "abe77347e592702047e237a9737b27779263a1a2c98502ada3f05481583c0e1c"
+  },
+  "img/13-X07-back-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/13-X07-back-600.webp",
+    "sha256": "b81f5a11687824e6aa1180d838e312b3063ccbe15440d00982b3ccd57960d3d8"
+  },
+  "img/x08-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/x08-600.webp",
+    "sha256": "2c79e3fa12ba206776f6b721e0abcf05cb5b6646f4560f385ff6a284d3c3462b"
+  },
+  "img/15-X08-back-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/15-X08-back-600.webp",
+    "sha256": "e9b850bf235276cbca145ab99111ce45e4b1e546870b55a4987fc8bfe90c1f04"
+  },
+  "img/dj001-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj001-1-600.webp",
+    "sha256": "31b7cb8a1410e0d7469dbab9b0e56c1a558999513c45aeda4f2680dfba78c663"
+  },
+  "img/dj001-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj001-2-600.webp",
+    "sha256": "8bd9cca8fc25d16eb8dd7047705442823b621a37c1cb10e2cef5b3e0cf060ccd"
+  },
+  "img/dj001-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj001-3-600.webp",
+    "sha256": "eeeefd6521ccbc9be969fab9412f98ba40a91ef79b560c6cc677c74caac117f9"
+  },
+  "img/dj002-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj002-1-600.webp",
+    "sha256": "f6cc1b30d1489d1fd031b5f3059d48e10e81e9a56387dca7fe7f594546ba0c6a"
+  },
+  "img/dj002-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj002-2-600.webp",
+    "sha256": "8e98b8e65da7096cd8fc9c3cf17b0f2885c884e5f7ec7602e197879016a465f2"
+  },
+  "img/dj002-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj002-3-600.webp",
+    "sha256": "2b3a92c75c20068bc74b83b08068fd1f7997ea22e7f4f385f0d13d127ca7669b"
+  },
+  "img/dj003-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj003-1-600.webp",
+    "sha256": "09f6965bcd9c4527bf61a51b3684ec8c6c3e680ef856b49a79d57afb46fcf038"
+  },
+  "img/dj003-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj003-2-600.webp",
+    "sha256": "70c5ccebb30bbcd69e32faf210789bc7f5722fc463a177321a74ef510018d27f"
+  },
+  "img/dj003-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj003-3-600.webp",
+    "sha256": "4753caef55493d91ff0aff187dbda8a3571f9122f3168bb14d5c23a796bae98c"
+  },
+  "img/dj004-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj004-1-600.webp",
+    "sha256": "b98d23388958fcb1361918837dab318acb22c6534af44090bf90adecbcf54abf"
+  },
+  "img/dj004-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj004-2-600.webp",
+    "sha256": "8cdf5779ed80906b05d7f5f0b90301cbd93e9fd01f0bb2c1c94462de232d5df2"
+  },
+  "img/dj004-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj004-3-600.webp",
+    "sha256": "a712699a6566f35c82a803a3962728a739cc95c0aab0c490e3ff7fae5e873269"
+  },
+  "img/dj005-darkblue-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj005-darkblue-600.webp",
+    "sha256": "0c0eb6f90a612a39a02af245fc67ff74dc1bc7ee7e1492e7c2c399446c537d88"
+  },
+  "img/dj005-lightblue-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj005-lightblue-600.webp",
+    "sha256": "da94500a7ec669fa751113563d9f9ffd0dc19952e50b794a5900eac50ed2b847"
+  },
+  "img/dj005-black-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/dj005-black-600.webp",
+    "sha256": "bf06d97e0231524e279540aca09583e46b64aee4b3237365089f2a08117c7709"
+  },
+  "img/p166-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/p166-600.webp",
+    "sha256": "38493c839406e56459bfec2f7c4c1b7ccf39cfc5bd013ba4d15e8dab3575f8c8"
+  },
+  "img/p165-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/p165-600.webp",
+    "sha256": "15f877363ea3caa31d134d47e3fd58e9d61dfac1aed674e792a3c5bf046eb7da"
+  },
+  "img/p613-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/p613-600.webp",
+    "sha256": "2ee915e5904bac56d834b400151acf25f6289341c9a08c0183fc8b40fb12d4a5"
+  },
+  "img/p611-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/p611-600.webp",
+    "sha256": "666339cd2590c310da9ea79d0f62e700c4b3865fe5d60275e54b5e2d6df36ee8"
+  },
+  "img/p612-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/p612-600.webp",
+    "sha256": "155975208c4174694e452f131661c0011876f6d3cca1d00c3f0ad9ab5b26d805"
+  },
+  "img/jn001-black-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn001-black-600.webp",
+    "sha256": "b36aff8f587e3684a4b06300967dc285c9b3577face829398505fa019c524bfd"
+  },
+  "img/jn001-green-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn001-green-600.webp",
+    "sha256": "cdf51f9a194917da4865bee32cef6b116ceabffdb65762cd21dd2232720b93a5"
+  },
+  "img/jn001-lightblue-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn001-lightblue-600.webp",
+    "sha256": "551ef3d15f7ec321473b71aff9e6c4662941bbe7999bbb5a60970e09b792396f"
+  },
+  "img/jn001-fabric-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn001-fabric-600.webp",
+    "sha256": "56ddfcaa967847e876272e17e6e80ace76168f60552fdd3e3effd692ed634369"
+  },
+  "img/jn001-d1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn001-d1-600.webp",
+    "sha256": "35336ae2f201fcbb56a4a15bbf65c4a30b483c16dfa822e947ba89b48800f5aa"
+  },
+  "img/jn001-d2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn001-d2-600.webp",
+    "sha256": "48c64a805e67d5a5312d8735c9375b725ea8f9be9eff67d6d1a1f8b280940d93"
+  },
+  "img/jn001-d3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn001-d3-600.webp",
+    "sha256": "99ac7f7208d17a6e565623c860e97ca4866e11adeb7d4f9a3e5600ae896ee51e"
+  },
+  "img/jn001-d4-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn001-d4-600.webp",
+    "sha256": "279fe159b6b54cdcc6a3f761d28dce8d3755b70f9c91ae92b7c6f2f074c646ba"
+  },
+  "img/jn002-front-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn002-front-600.webp",
+    "sha256": "2782435a7582ae3d965354d1cc94bbd5f561392931113e3f31b1fcf89ccf99ba"
+  },
+  "img/jn002-model1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn002-model1-600.webp",
+    "sha256": "0c5d108ba17eee9a30e91533a349e6b3c47972d53c167f3b11dd31d1e3966d71"
+  },
+  "img/jn002-model2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn002-model2-600.webp",
+    "sha256": "d1b9c105de2806ca6355ff8ca848e2cb1aa265607356055678281ae2774d39ba"
+  },
+  "img/jn002-back-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn002-back-600.webp",
+    "sha256": "9c63536fbacaf5075c924b94c7a8e42973947b110f50a9403331c8651693bed4"
+  },
+  "img/jn002-print-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn002-print-600.webp",
+    "sha256": "8fbf6f0bded2c41400bf7266c1e5491d2306bd984e75def64c824705b653367d"
+  },
+  "img/jn002-blue-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn002-blue-600.webp",
+    "sha256": "27b2623f280fdaab3388cc24e84248cbbaa6b4ea88bfe576c1ee66dca2a449c0"
+  },
+  "img/jn002-hole-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn002-hole-600.webp",
+    "sha256": "22e6615ebc953b2a5761bc8ab3bbcb867a28f05b2ff4fccbe0cd1612bd31e763"
+  },
+  "img/jn003-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn003-1-600.webp",
+    "sha256": "aebad085e3db1775834b98134b8438c4706588ee865bc367bc2c98f660beafd8"
+  },
+  "img/jn003-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn003-2-600.webp",
+    "sha256": "abdee52933ef7dd4a692d52e054754f4f776e6761789d3ebfb0d1af06643043a"
+  },
+  "img/jn003-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn003-3-600.webp",
+    "sha256": "a08e2662a61d623671f982b5e3ebd92c95c3cab650da42c16b6b49e141b08471"
+  },
+  "img/jn003-4-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn003-4-600.webp",
+    "sha256": "d860dd17553b8a652461dc4a370f3a75d721a30b074c677532b5ec9399c3f362"
+  },
+  "img/jn003-5-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn003-5-600.webp",
+    "sha256": "9ac79122c0c5daae69e5ced5bdd94c49aad7e23a0b899d4cc50da56df9e13c0e"
+  },
+  "img/jn004-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn004-1-600.webp",
+    "sha256": "a8373846fdc6ffddd7d648c41b0fd07821397473e788bd8cea6b0e8af1850372"
+  },
+  "img/jn004-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn004-2-600.webp",
+    "sha256": "0ba943d3998600ee9503b9937810a7df2e368425ce185cd1aad307553582f9de"
+  },
+  "img/jn005-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn005-1-600.webp",
+    "sha256": "4d7fbbd7bc381de09cb00e09ca2a3b20af8d51af5bc6963567e4c55bdf4dcf63"
+  },
+  "img/jn005-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn005-2-600.webp",
+    "sha256": "51c7b0b2df399dbab7b2fd6b4dca44b70738c07a8e94fdd8781ddfe472c79efb"
+  },
+  "img/jn005-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn005-3-600.webp",
+    "sha256": "414299ec1626d3cddd7350113d7579acf3d4775110c2a3b3e3727a22e4406bfa"
+  },
+  "img/jn005-4-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn005-4-600.webp",
+    "sha256": "5d8ddd76f0c85a4fe52ad9b48aac40aed1fd9f836ef5feacdcf6486b9253bf26"
+  },
+  "img/jn006-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn006-1-600.webp",
+    "sha256": "e87b89288f324c044b04b206c473580551ec0a356d2c52eb665a27427cbaeee8"
+  },
+  "img/jn006-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn006-2-600.webp",
+    "sha256": "85b90be27ec021268d14bf60d76dcfd35bbe5b2b4ab4d3e81b7d85e8bae6cf95"
+  },
+  "img/jn006-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn006-3-600.webp",
+    "sha256": "13fa2d5437e5f042f7487bfbfb17cb3b1665a8c1d97f22cc9087ee0aa6540b34"
+  },
+  "img/jn006-4-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn006-4-600.webp",
+    "sha256": "c81cfeb3da7747338f7da306df1f2c6dd9d4cc5a7833b0dab6ee0522daf2d5a1"
+  },
+  "img/jn006-5-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn006-5-600.webp",
+    "sha256": "2be559a35c6963378f00a47b5b9f915b2a6ad2f611f9afdfc93e02a31443773e"
+  },
+  "img/jn007-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn007-1-600.webp",
+    "sha256": "e34e6da29a0cc6a90277ea2b1e5bc0501a657cf03972f2ca287cbe00ff07b16f"
+  },
+  "img/jn007-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn007-2-600.webp",
+    "sha256": "01903dc4869839bc93e54304699cfe612cc3924cf2975cc987fed8a90073f5e8"
+  },
+  "img/jn007-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn007-3-600.webp",
+    "sha256": "3b16b4ea7e76038bbc3bd7abccb3708ee1be25bda5761a2623a07e4407728412"
+  },
+  "img/jn007-4-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/jn007-4-600.webp",
+    "sha256": "4db3d90040673307ca1b8d689101cf3c98ddcef5986174304aad87d73cd337e3"
+  },
+  "img/wincp17-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/wincp17-1-600.webp",
+    "sha256": "3524366cfe943b56ff697d8f1af173d31ac533ff64153b674a0dd94dd4d7ed42"
+  },
+  "img/wincp10-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/wincp10-1-600.webp",
+    "sha256": "fdd52f0e76a33e04874791ffb606075565e54b32d004c7c316552ce3463848db"
+  },
+  "img/winv76-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/winv76-1-600.webp",
+    "sha256": "db17437af7d1666e0a014ad5b560569b24685cf80ed64de932a6193b8c6cadfd"
+  },
+  "img/wincp12-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/wincp12-1-600.webp",
+    "sha256": "81b2c0859d475cfab02328788d53d0fcaeac8ebd62298a48aff2dffc1cd9a217"
+  },
+  "img/wincp6-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/wincp6-1-600.webp",
+    "sha256": "aa0b504ada4bb76ce35895cea95a360a326b45a03f57e6cd852492e26a5c0f39"
+  },
+  "img/tr001-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr001-1-600.webp",
+    "sha256": "26352d90399802d526fa9b5a294b01ef7916394f93398c89d01451cdd79cbadd"
+  },
+  "img/tr001-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr001-2-600.webp",
+    "sha256": "2c46c7b9eaab7bbe10bcc744889ab4009f6097ed65d4868fc22c2b1b008c57cf"
+  },
+  "img/tr001-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr001-3-600.webp",
+    "sha256": "73b382837fd27263e95485e2b3bfe8c96ef3a6b0172cd73aa279420763a82e00"
+  },
+  "img/tr002-black-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr002-black-600.webp",
+    "sha256": "4da75d8b3519c929a4bfe8c02e479d3f916b74fc19f0d6c05d6ec67a2213b8ea"
+  },
+  "img/tr002-flat1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr002-flat1-600.webp",
+    "sha256": "8f9a6da51dfc1fe7720b116b81cb3f0e48c8c6d7a41f3f841c3af50ae318119c"
+  },
+  "img/tr002-darkgrey-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr002-darkgrey-600.webp",
+    "sha256": "dd8941a0de7bdec190a3cad53be51b1fcedc107e1f6bed257f69d9b0979b675d"
+  },
+  "img/tr002-lightgrey-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr002-lightgrey-600.webp",
+    "sha256": "02f1756467bb656838409ed7dba10299575f406ae65d13ea1d55a7756acd9afa"
+  },
+  "img/tr002-camel-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr002-camel-600.webp",
+    "sha256": "92b7d0ae3e973523d50aec91c8f4a6639ede17055a4ca472c8756200f178fd8b"
+  },
+  "img/tr002-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr002-1-600.webp",
+    "sha256": "80d713cacfaa1e4369b3e7e192713cb927073decb2a861e02455937bed1bfea9"
+  },
+  "img/tr002-flat2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr002-flat2-600.webp",
+    "sha256": "a25ab0675743f126272b405dae92c787b76dc6701685e34a9e77c219cc0dfcb1"
+  },
+  "img/tr002-flat3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr002-flat3-600.webp",
+    "sha256": "d63dfca3872f5eb7a53b31e8413d62d8408df266461e475b555263d8b1d6c055"
+  },
+  "img/tr003-brown-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr003-brown-600.webp",
+    "sha256": "c736bea8b26fc411d3388c80dc58572dc38b7d7be10151e72c9c5c7859ab337d"
+  },
+  "img/tr003-black-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr003-black-600.webp",
+    "sha256": "2b60320ef6056a56cebbb668f720d9ca5e267e5c0b767e08192b364d99658e43"
+  },
+  "img/tr003-navy-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr003-navy-600.webp",
+    "sha256": "608590a86c9a2b0c26200a753025c496d3c9886f0d4989856afeb38995029412"
+  },
+  "img/tr003-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr003-1-600.webp",
+    "sha256": "e22ba1de98f7e64ea233b1c66bd26e976f7282f6c67f535dc30f0cd624a4c834"
+  },
+  "img/tr003-black2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr003-black2-600.webp",
+    "sha256": "b76a261243dc124f9ed5da93efa3ae96181167e98e0e615d88860a7ccf772033"
+  },
+  "img/tr004-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr004-1-600.webp",
+    "sha256": "1ec662efdac74b42391cd187e7d1548e9a67c4ef5c84dc6b0b7d4da0ffde4637"
+  },
+  "img/tr004-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr004-2-600.webp",
+    "sha256": "06bd793d3221f59ab16dccccd549b527ecb1a1279281d5cd7bbfe7cd3750a03a"
+  },
+  "img/tr004-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr004-3-600.webp",
+    "sha256": "b3e012269fa17aa18ecc7983c7dec3de7b99907d0f615177cf1de161cbcdb4e9"
+  },
+  "img/tr004-4-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr004-4-600.webp",
+    "sha256": "df34ca638bfeaa28707b514e3064189e0033ecb3e938affafa18d0c093f63993"
+  },
+  "img/tr004-black-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr004-black-600.webp",
+    "sha256": "6db09b6ffdf19c013e750c0c8c0aea7ed633c1c925f5f70568fffe282cd6af4b"
+  },
+  "img/tr005-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr005-1-600.webp",
+    "sha256": "84f979e83fa75e1fb53ceb62a82549f6d8b532cd1283e05942a1bde0a3cc957d"
+  },
+  "img/tr006-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr006-1-600.webp",
+    "sha256": "d8ccccf7eb4d6cdbd1f35e5f70d9f2144c4a6dac87c0670002df37a2662009c5"
+  },
+  "img/tr006-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr006-2-600.webp",
+    "sha256": "1feff8906bbd2fd43ad470abe51d9a1e37f8857dec567a6c3d3d6ab5dfdf4847"
+  },
+  "img/tr007-grey-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr007-grey-600.webp",
+    "sha256": "646c33aaedd7398eefa5b23b102ff25d88365dce6256de19fdd391cf714920b7"
+  },
+  "img/tr007-olive-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr007-olive-600.webp",
+    "sha256": "43f7ae7b23a55a998098014d93bf79ee1120380c7df14b136cc75a9a61741467"
+  },
+  "img/tr007-khaki-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr007-khaki-600.webp",
+    "sha256": "0e8489b1a54808da7b3de93bacd9b23b8571dabb562a9b93eedfa59e7495a175"
+  },
+  "img/tr007-colours-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr007-colours-600.webp",
+    "sha256": "76776ee1892a4e789d00333822c2cea3a7f042a8013f755534998d3bbd532858"
+  },
+  "img/tr008-stone-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr008-stone-600.webp",
+    "sha256": "1073d4df54ddfceb008b26444cebbfa87ba9c4b9cb68553ff87850a9b6ffdd21"
+  },
+  "img/tr008-black-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr008-black-600.webp",
+    "sha256": "2f4c54ef84260ae9c8cf1e17fa8d766456889ef4e83a50c0c3a527a2b50583aa"
+  },
+  "img/tr008-colours-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr008-colours-600.webp",
+    "sha256": "0d87ae1021e97523f91b8d3e9f76da010f9b8851b8319d4dff8dc2d604f609b1"
+  },
+  "img/tr008-detail-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr008-detail-600.webp",
+    "sha256": "34958316d584ef6b5ebcf7b2ae003322038fea5505b3ab1830c17ba7ec755c90"
+  },
+  "img/tr009-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr009-1-600.webp",
+    "sha256": "6d00b9a6c336eac9f1e0c5e2cc5f3e28373f02113cdccd666d3acf59bd30e265"
+  },
+  "img/tr009-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr009-2-600.webp",
+    "sha256": "e656f797bc2f111cc67a2f18125707be58d7465374a27e8b99ef462613911329"
+  },
+  "img/tr009-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr009-3-600.webp",
+    "sha256": "e96b4d30fe2c9bbf6316a295daffab7ddfd2165c6d46248486ddcab8dca1ae03"
+  },
+  "img/tr010-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr010-1-600.webp",
+    "sha256": "29ccf0a1e99cac77ea2839714014f412655535e194569a7d48f1ec1a425bab88"
+  },
+  "img/tr010-2-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr010-2-600.webp",
+    "sha256": "56379fc695eba05c67d4438a4b1c26fbf4cfb533f6bfe71d345560a51262d068"
+  },
+  "img/tr010-3-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr010-3-600.webp",
+    "sha256": "66c128a42e6d769ee56491041cc2cc8429dae99d672ad44c94d8cdad8d4d9a48"
+  },
+  "img/tr010-4-600.webp": {
+    "source": "/home/hatch/workspace/xth-website/img/tr010-4-600.webp",
+    "sha256": "f3b67cb1705867c1a8c17f9daa901bd2db79e3be9640f6c8b8e18c392f0ae8e9"
+  },
+  "img/a811-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-toc/source-a81x/img/a811-1-600.webp",
+    "sha256": "afeded02db7478ef06874c3888811458086326fbefaf6a9a99e70ade52d51483",
+    "product": "A811",
+    "status": "completed",
+    "verified_on": "2026-11-19"
+  },
+  "img/a812-1-600.webp": {
+    "source": "/home/hatch/workspace/xth-toc/source-a81x/img/a812-1-600.webp",
+    "sha256": "1e5c30b14f493085f112e7d6f652b5ff523fd178b7394c5525a3bd7cc96dd167",
+    "product": "A812",
+    "status": "completed",
+    "verified_on": "2026-11-19"
+  }
+}

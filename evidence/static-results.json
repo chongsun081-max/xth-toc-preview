@@ -1,0 +1,9 @@
+{
+  "html_pages": 46,
+  "local_references_checked": 957,
+  "unique_images_decoded": 115,
+  "images_hash_match": true,
+  "shop_unique_styles": 42,
+  "errors": [],
+  "http_browser_mobile": "Not run in this patch; static checks do not verify browser rendering"
+}

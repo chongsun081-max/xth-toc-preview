@@ -1,0 +1,960 @@
+[
+  {
+    "code": "X01",
+    "name": "Patterned Denim Jacket",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/x01-600.webp",
+      "img/03-X01-back-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Multicolour"
+    ],
+    "source": "x01.html"
+  },
+  {
+    "code": "X02",
+    "name": "Flag-Panel Denim Jacket",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/x02-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "source": "x02.html"
+  },
+  {
+    "code": "X03",
+    "name": "Patterned Denim Jacket",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/x03-600.webp",
+      "img/06-X03-back-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Black and white pattern"
+    ],
+    "source": "x03.html"
+  },
+  {
+    "code": "X04",
+    "name": "The Studio Denim Jacket",
+    "description": "A sharp, structured denim layer tailored for effortless transitional styling.",
+    "category": "Denim Jackets",
+    "images": [
+      "img/x04-600.webp",
+      "img/08-X04-black-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "source": "x04.html"
+  },
+  {
+    "code": "X05",
+    "name": "Patch-Detail Denim Jacket",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/x05-600.webp",
+      "img/10-X05-back-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "source": "x05.html"
+  },
+  {
+    "code": "X06",
+    "name": "Button-Front Denim Top",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/x06-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "source": "x06.html"
+  },
+  {
+    "code": "X07",
+    "name": "Graphic Denim Jacket",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/x07-600.webp",
+      "img/13-X07-back-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Black with multicolour graphic"
+    ],
+    "source": "x07.html"
+  },
+  {
+    "code": "X08",
+    "name": "Black Denim Jacket",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/x08-600.webp",
+      "img/15-X08-back-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "source": "x08.html"
+  },
+  {
+    "code": "DJ-001",
+    "name": "The Core Workwear Denim Jacket",
+    "description": "A clean, versatile outer layer built to anchor your everyday rotation.",
+    "category": "Denim Jackets",
+    "images": [
+      "img/dj001-1-600.webp",
+      "img/dj001-2-600.webp",
+      "img/dj001-3-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Light blue"
+    ],
+    "source": "dj001.html"
+  },
+  {
+    "code": "DJ-002",
+    "name": "Hooded Trucker Denim Jacket",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/dj002-1-600.webp",
+      "img/dj002-2-600.webp",
+      "img/dj002-3-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Mid blue"
+    ],
+    "source": "dj002.html"
+  },
+  {
+    "code": "DJ-003",
+    "name": "Hooded Zip Jacket with Fleece Sleeves",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/dj003-1-600.webp",
+      "img/dj003-2-600.webp",
+      "img/dj003-3-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Blue / grey"
+    ],
+    "source": "dj003.html"
+  },
+  {
+    "code": "DJ-004",
+    "name": "Hooded Denim Jacket with Fleece Sleeves",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/dj004-1-600.webp",
+      "img/dj004-2-600.webp",
+      "img/dj004-3-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Blue / black"
+    ],
+    "source": "dj004.html"
+  },
+  {
+    "code": "DJ-005",
+    "name": "Layered Hooded Denim Jacket",
+    "description": "",
+    "category": "Denim Jackets",
+    "images": [
+      "img/dj005-darkblue-600.webp",
+      "img/dj005-lightblue-600.webp",
+      "img/dj005-black-600.webp"
+    ],
+    "sizes": [
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Black",
+      "Light blue",
+      "Dark blue"
+    ],
+    "source": "dj005.html"
+  },
+  {
+    "code": "166",
+    "name": "Leather-Patch Baggy Jeans",
+    "description": "",
+    "category": "Jeans",
+    "images": [
+      "img/p166-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Washed black",
+      "Slate blue"
+    ],
+    "source": "s166.html"
+  },
+  {
+    "code": "165",
+    "name": "Classic Baggy Jeans",
+    "description": "",
+    "category": "Jeans",
+    "images": [
+      "img/p165-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Mid blue",
+      "Black"
+    ],
+    "source": "s165.html"
+  },
+  {
+    "code": "613",
+    "name": "Panel-Seam Baggy Jeans",
+    "description": "",
+    "category": "Jeans",
+    "images": [
+      "img/p613-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Vintage blue",
+      "Black"
+    ],
+    "source": "s613.html"
+  },
+  {
+    "code": "611",
+    "name": "Whiskered Baggy Jeans",
+    "description": "",
+    "category": "Jeans",
+    "images": [
+      "img/p611-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Faded blue",
+      "Black"
+    ],
+    "source": "s611.html"
+  },
+  {
+    "code": "612",
+    "name": "Faded-Wash Baggy Jeans",
+    "description": "",
+    "category": "Jeans",
+    "images": [
+      "img/p612-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Black",
+      "Faded blue"
+    ],
+    "source": "s612.html"
+  },
+  {
+    "code": "JN-001",
+    "name": "The Everyday Straight-Leg Jean",
+    "description": "A balanced, classic cut that pairs effortlessly with tees, shirts, and jackets.",
+    "category": "Jeans",
+    "images": [
+      "img/jn001-black-600.webp",
+      "img/jn001-green-600.webp",
+      "img/jn001-lightblue-600.webp",
+      "img/jn001-fabric-600.webp",
+      "img/jn001-d1-600.webp",
+      "img/jn001-d2-600.webp",
+      "img/jn001-d3-600.webp",
+      "img/jn001-d4-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Black",
+      "Vintage green",
+      "Light blue"
+    ],
+    "source": "jn001.html"
+  },
+  {
+    "code": "JN-002",
+    "name": "Patchwork Print Distressed Jeans",
+    "description": "",
+    "category": "Jeans",
+    "images": [
+      "img/jn002-front-600.webp",
+      "img/jn002-model1-600.webp",
+      "img/jn002-model2-600.webp",
+      "img/jn002-back-600.webp",
+      "img/jn002-print-600.webp",
+      "img/jn002-blue-600.webp",
+      "img/jn002-hole-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Vintage wash"
+    ],
+    "source": "jn002.html"
+  },
+  {
+    "code": "JN-003",
+    "name": "Washed Black Cargo Jeans",
+    "description": "",
+    "category": "Jeans",
+    "images": [
+      "img/jn003-1-600.webp",
+      "img/jn003-2-600.webp",
+      "img/jn003-3-600.webp",
+      "img/jn003-4-600.webp",
+      "img/jn003-5-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Washed black"
+    ],
+    "source": "jn003.html"
+  },
+  {
+    "code": "JN-004",
+    "name": "Red-Embroidered Wide-Leg Jeans",
+    "description": "",
+    "category": "Jeans",
+    "images": [
+      "img/jn004-1-600.webp",
+      "img/jn004-2-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Black / red"
+    ],
+    "source": "jn004.html"
+  },
+  {
+    "code": "JN-005",
+    "name": "The Relaxed Wide-Leg Jean",
+    "description": "Roomy through the leg with a modern, laid-back silhouette that moves easily.",
+    "category": "Jeans",
+    "images": [
+      "img/jn005-1-600.webp",
+      "img/jn005-2-600.webp",
+      "img/jn005-3-600.webp",
+      "img/jn005-4-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Dark indigo"
+    ],
+    "source": "jn005.html"
+  },
+  {
+    "code": "JN-006",
+    "name": "Embroidered-Waistband Vintage Jeans",
+    "description": "",
+    "category": "Jeans",
+    "images": [
+      "img/jn006-1-600.webp",
+      "img/jn006-2-600.webp",
+      "img/jn006-3-600.webp",
+      "img/jn006-4-600.webp",
+      "img/jn006-5-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Vintage blue"
+    ],
+    "source": "jn006.html"
+  },
+  {
+    "code": "JN-007",
+    "name": "Speckle-Print Wide-Leg Jeans",
+    "description": "",
+    "category": "Jeans",
+    "images": [
+      "img/jn007-1-600.webp",
+      "img/jn007-2-600.webp",
+      "img/jn007-3-600.webp",
+      "img/jn007-4-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Light blue"
+    ],
+    "source": "jn007.html"
+  },
+  {
+    "code": "WIN-CP-17",
+    "name": "The WIN Signature Jean",
+    "description": "Our flagship daily driver combining relaxed comfort with clean, modern lines.",
+    "category": "Jeans",
+    "images": [
+      "img/wincp17-1-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Mid blue"
+    ],
+    "source": "wincp17.html"
+  },
+  {
+    "code": "WIN-CP-10",
+    "name": "The WIN Signature Jean",
+    "description": "Our flagship daily driver combining relaxed comfort with clean, modern lines.",
+    "category": "Jeans",
+    "images": [
+      "img/wincp10-1-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Vintage blue"
+    ],
+    "source": "wincp10.html"
+  },
+  {
+    "code": "WIN-V76",
+    "name": "The WIN Signature Jean",
+    "description": "Our flagship daily driver combining relaxed comfort with clean, modern lines.",
+    "category": "Jeans",
+    "images": [
+      "img/winv76-1-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Light blue"
+    ],
+    "source": "winv76.html"
+  },
+  {
+    "code": "WIN-CP-12",
+    "name": "The WIN Signature Jean",
+    "description": "Our flagship daily driver combining relaxed comfort with clean, modern lines.",
+    "category": "Jeans",
+    "images": [
+      "img/wincp12-1-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Dark blue"
+    ],
+    "source": "wincp12.html"
+  },
+  {
+    "code": "WIN-CP-6",
+    "name": "The WIN Signature Jean",
+    "description": "Our flagship daily driver combining relaxed comfort with clean, modern lines.",
+    "category": "Jeans",
+    "images": [
+      "img/wincp6-1-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Vintage blue"
+    ],
+    "source": "wincp6.html"
+  },
+  {
+    "code": "TR-001",
+    "name": "Denim Gurkha Trousers",
+    "description": "",
+    "category": "Casual Pants",
+    "images": [
+      "img/tr001-1-600.webp",
+      "img/tr001-2-600.webp",
+      "img/tr001-3-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Indigo"
+    ],
+    "source": "tr001.html"
+  },
+  {
+    "code": "TR-002",
+    "name": "Button-Tab Pleated Trousers",
+    "description": "",
+    "category": "Casual Pants",
+    "images": [
+      "img/tr002-black-600.webp",
+      "img/tr002-flat1-600.webp",
+      "img/tr002-darkgrey-600.webp",
+      "img/tr002-lightgrey-600.webp",
+      "img/tr002-camel-600.webp",
+      "img/tr002-1-600.webp",
+      "img/tr002-flat2-600.webp",
+      "img/tr002-flat3-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Black",
+      "Light grey",
+      "Dark grey",
+      "Stone",
+      "Camel",
+      "Taupe"
+    ],
+    "source": "tr002.html"
+  },
+  {
+    "code": "TR-003",
+    "name": "Gurkha Pleated Trousers",
+    "description": "",
+    "category": "Casual Pants",
+    "images": [
+      "img/tr003-brown-600.webp",
+      "img/tr003-black-600.webp",
+      "img/tr003-navy-600.webp",
+      "img/tr003-1-600.webp",
+      "img/tr003-black2-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Black",
+      "Navy",
+      "Beige",
+      "Brown"
+    ],
+    "source": "tr003.html"
+  },
+  {
+    "code": "TR-004",
+    "name": "Wide-Leg Pleated Trousers",
+    "description": "",
+    "category": "Casual Pants",
+    "images": [
+      "img/tr004-1-600.webp",
+      "img/tr004-2-600.webp",
+      "img/tr004-3-600.webp",
+      "img/tr004-4-600.webp",
+      "img/tr004-black-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Khaki",
+      "Sand",
+      "Black"
+    ],
+    "source": "tr004.html"
+  },
+  {
+    "code": "TR-005",
+    "name": "Elastic-Waist Cargo Joggers",
+    "description": "",
+    "category": "Casual Pants",
+    "images": [
+      "img/tr005-1-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Olive",
+      "Grey"
+    ],
+    "source": "tr005.html"
+  },
+  {
+    "code": "TR-006",
+    "name": "Drawstring Cargo Shorts",
+    "description": "",
+    "category": "Casual Pants",
+    "images": [
+      "img/tr006-1-600.webp",
+      "img/tr006-2-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Olive",
+      "Khaki"
+    ],
+    "source": "tr006.html"
+  },
+  {
+    "code": "TR-007",
+    "name": "Buckle-Adjuster Cargo Trousers",
+    "description": "",
+    "category": "Casual Pants",
+    "images": [
+      "img/tr007-grey-600.webp",
+      "img/tr007-olive-600.webp",
+      "img/tr007-khaki-600.webp",
+      "img/tr007-colours-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Grey",
+      "Olive",
+      "Khaki",
+      "Black"
+    ],
+    "source": "tr007.html"
+  },
+  {
+    "code": "TR-008",
+    "name": "Straight-Leg Chino Trousers",
+    "description": "",
+    "category": "Casual Pants",
+    "images": [
+      "img/tr008-stone-600.webp",
+      "img/tr008-black-600.webp",
+      "img/tr008-colours-600.webp",
+      "img/tr008-detail-600.webp"
+    ],
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "36"
+    ],
+    "colors": [
+      "Stone",
+      "Black",
+      "Dark brown",
+      "Navy",
+      "Olive",
+      "Khaki"
+    ],
+    "source": "tr008.html"
+  },
+  {
+    "code": "TR-009",
+    "name": "Washed Cargo Trousers",
+    "description": "",
+    "category": "Casual Pants",
+    "images": [
+      "img/tr009-1-600.webp",
+      "img/tr009-2-600.webp",
+      "img/tr009-3-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Washed olive"
+    ],
+    "source": "tr009.html"
+  },
+  {
+    "code": "TR-010",
+    "name": "Camo Wide-Leg Trousers",
+    "description": "",
+    "category": "Casual Pants",
+    "images": [
+      "img/tr010-1-600.webp",
+      "img/tr010-2-600.webp",
+      "img/tr010-3-600.webp",
+      "img/tr010-4-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Camouflage"
+    ],
+    "source": "tr010.html"
+  },
+  {
+    "code": "A811",
+    "name": "The Curved-Seam Wide-Leg Jean",
+    "description": "Engineered with curved side seams for a sculptural wide-leg drape, available in black and vintage faded blue.",
+    "category": "Jeans",
+    "images": [
+      "img/a811-1-600.webp"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "colors": [
+      "Black",
+      "Vintage blue"
+    ],
+    "source": "source-a81x/a811.html"
+  },
+  {
+    "code": "A812",
+    "name": "Thigh-Faded Curved-Seam Wide-Leg Jeans",
+    "description": "Men's wide-leg jeans with curved panel seams, whiskering and washed fading at the thighs, in medium vintage blue and black.",
+    "category": "Jeans",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "images": [
+      "img/a812-1-600.webp"
+    ],
+    "colors": [
+      "Vintage blue",
+      "Black"
+    ],
+    "source": "source-a81x/a812.html"
+  }
+]
